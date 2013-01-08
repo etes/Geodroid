@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LBSGeocoding</string>
+    <string name="about_label">About</string>
+
+    <string name="about_text"> The LBSGeocoding Application is a tool to retrieve location of the user and updates in location. \n
+Copyright 2012 @ Ermias B. Tesfamariam \n
+</string>
+</resources>
