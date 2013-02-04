@@ -18,7 +18,12 @@ import android.view.View;
 import android.view.View.OnClickListener;
 
 
-
+/**
+ * (c) Ermias B. Tesfamariam 2010
+ *
+ * @author Ermias
+ * @since 09:01:39 - 21.03.2010
+ */
 public class LBSGeocodingActivity extends Activity {
     
 	private static final long MINIMUM_DISTANCE_CHANGE_FOR_UPDATES = 1; // in Meters
